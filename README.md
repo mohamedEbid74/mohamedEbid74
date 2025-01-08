@@ -104,7 +104,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mohamedEbid74/mohamedEbid74/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohamedEbid74/mohamedEbid74/snake.svg" alt="Snake animation" />
 
 ###
 
