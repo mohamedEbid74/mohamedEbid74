@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">⚙️ HTML  <br>🎨 CSS  <br>💎 SCSS  <br>🟨 JavaScript  <br>🌪️ TailwindCSS  <br>🍂 Twig (for theme templating)  <br>🛒 Salla  <br>📦 Zid  <br>🟢 Shopify (Liquid)  <br>✏️ Figma  <br>⚛️ React  <br>🔄 Redu</p>
+<p align="left">⚙️ HTML  , 🎨 CSS  ,💎 SCSS  , 🟨 JavaScript  , 🌪️ TailwindCSS  , 🍂 Twig (for theme templating)  , 🛒 Salla  , 📦 Zid  , 🟢 Shopify (Liquid)  , ✏️ Figma  , ⚛️ React  , 🔄 Redux</p>
 
 ###
 
